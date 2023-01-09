@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "975572932732",
+    "project_id": "bmsce-attendance",
+    "storage_bucket": "bmsce-attendance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975572932732:android:907605fee23ad29d7b51f9",
+        "android_client_info": {
+          "package_name": "com.eventsapp.bmsceattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975572932732-rrpnea7ign0q5bso2ti2csb6o18amqf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHr3BxsFdWc6xPHnZiBqAn6-CZu2F8eQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975572932732-rrpnea7ign0q5bso2ti2csb6o18amqf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
